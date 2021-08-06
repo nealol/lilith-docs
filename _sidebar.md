@@ -1,3 +1,6 @@
 * [Home](/ "Lilith")
-* [Getting Started](getting_started.md "Lilith")
-* [FAQ](FAQ.md "Lilith")
+* [Getting Started](getting_started.md "Getting Started")
+* [Troubleshooting](troubleshooting.md "Troubleshooting")
+* [FAQ](FAQ.md "FAQ")
+* [Commands](commands.md "Commands")
+* [Configuration](configuration.md "Configuration")
