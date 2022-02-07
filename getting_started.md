@@ -17,7 +17,7 @@ To use Lilith, you need to go into your Minecraft client (any client works) and 
 
 ### Power Users on Windows
 
-I recommend using Windows Terminal with Powershell 7 and acrylic enabled to run Lilith. Once you've installed all of the above and google how to turn on acrylic mode, you can run Lilith by navigating to the directory: `cd "PATH"` (Replace PATH with the full path to the Lilith folder), and doing `.\lilith-win-0-3-1-beta.exe`. The final command is tab-completable.
+I recommend using Windows Terminal with Powershell 7 and acrylic enabled to run Lilith. Once you've installed all of the above and google how to turn on acrylic mode, you can run Lilith by navigating to the directory: `cd "PATH"` (Replace PATH with the full path to the Lilith folder), and doing `.\lilith-win-0-6-0-alpha-3.exe`. The final command is tab-completable.
 
 ## MacOS Users
 
@@ -33,7 +33,7 @@ Open the file with something like TextEdit and paste the following (You can hove
 ```bash
 #!/bin/bash
 cd "PATH"
-./lilith-macos-0-3-1-beta
+./lilith-macos-0-6-0-alpha-3
 ```
 
 Once again, replace `PATH` with the path to the Lilith folder. Save the file and you'll now need to go into terminal, navigate to the Lilith folder as shown in the preceding section, and do `chmod +x ./lilith.command`. Now you can double click on the .command file in Finder to open a new Terminal window and run Lilith.
@@ -43,13 +43,13 @@ Once again, replace `PATH` with the path to the Lilith folder. Save the file and
 - Download Lilith for Mac
 - Create a new folder for Lilith and move the downloaded file inside of it
 - Open a terminal and navigate to the Lilith folder
-- Run `chmod +x ./lilith-macos-0-3-1-beta`
+- Run `chmod +x ./lilith-macos-0-6-0-alpha-3`
 - Create a file named `lilith.command` in the Lilith folder
 - Paste the following into the file and replace PATH with the path to the Lilith folder:
 ```bash
 #!/bin/bash
 cd "PATH"
-./lilith-macos-0-3-1-beta
+./lilith-macos-0-6-0-alpha-3
 ```
 - In terminal, run `chmod +x lilith.command`
 - Run Lilith by double clicking the command file in Finder.
