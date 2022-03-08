@@ -59,7 +59,3 @@ cd "PATH"
 I'm not going to pretend you don't know how to use the terminal; you're on Linux.
 
 Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod +x` on the executable.
-
-### Alpine Users
-
-Lilith has not been tested on Alpine yet, but if you can get it to work please let us know.
