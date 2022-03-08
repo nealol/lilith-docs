@@ -9,15 +9,15 @@ Downloads can be found at https://dl.lilithmod.xyz. Once you've downloaded, you 
 
 ## Windows Users
 
-All you need to do is download the newest exe from the link above, put it in a new "lilith" folder, and double click to run it. Do not run Lilith before you put it in the folder.
+All you need to do is download the newest exe from the link above, put it in a new "lilith" folder, and double click to run it. Do not run Lilith before you put it in the folder. If you accidentally downloaded Lilith more than once and it automatically renamed it by putting something like a (1) at the end of the file name, please rename it when you drop it in your Lilith folder as it will not work if it is renamed from the default.
 
 Lilith will give you a link to open. To copy it, just select the link, and it'll be copied. Paste this into your browser and verify with Discord oauth. Once this is complete, Lilith should start up.
 
-To use Lilith, you need to go into your Minecraft client (any client works) and connect to a server with the address direct connect to `localhost`. Yes, for the server address just type the word localhost. You will most likely get an error. If you do, please see the Troubleshooting section of the documentation.
+To use Lilith, you need to go into your Minecraft client (any client works) and connect to a server with the address direct connect to `localhost`. Yes, for the server address just type the word localhost. You will most likely get a socket closed error. If you do, please see the Troubleshooting section of the documentation.
 
 ### Power Users on Windows
 
-I recommend using Windows Terminal with Powershell 7 and acrylic enabled to run Lilith. Once you've installed all of the above and google how to turn on acrylic mode, you can run Lilith by navigating to the directory: `cd "PATH"` (Replace PATH with the full path to the Lilith folder), and doing `.\lilith-win-0-6-0-alpha-3.exe`. The final command is tab-completable.
+If you are an advanced user and know what you are doing, we recommend using Windows Terminal with Powershell 7 and acrylic enabled to run Lilith. Once you've installed all of the above and google how to turn on acrylic mode, you can run Lilith by navigating to the directory: `cd "PATH"` (Replace PATH with the full path to the Lilith folder), and doing `.\lilith-win-0-6-0-alpha-3.exe`. The final command is tab-completable.
 
 ## MacOS Users
 
@@ -62,4 +62,4 @@ Lilith is a command line executable which you should put in its own folder such 
 
 ### Alpine Users
 
-I don't care enough to test Lilith for Alpine but it may work. If you try it, please let me know if it works.
+Lilith has not been tested on Alpine yet, but if you can get it to work please let us know.
