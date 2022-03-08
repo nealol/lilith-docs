@@ -9,11 +9,11 @@ Downloads can be found at https://dl.lilithmod.xyz. Once you've downloaded, you 
 
 ## Windows Users
 
-All you need to do is download the newest exe from the link above, put it in a new "lilith" folder, and double click to run it.
+All you need to do is download the newest exe from the link above, put it in a new "lilith" folder, and double click to run it. Do not run Lilith before you put it in the folder.
 
 Lilith will give you a link to open. To copy it, just select the link, and it'll be copied. Paste this into your browser and verify with Discord oauth. Once this is complete, Lilith should start up.
 
-To use Lilith, you need to go into your Minecraft client (any client works) and direct connect to `localhost`. If you have any errors, see Troubleshooting.
+To use Lilith, you need to go into your Minecraft client (any client works) and connect to a server with the address direct connect to `localhost`. Yes, for the server address just type the word localhost. You will most likely get an error. If you do, please see the Troubleshooting section of the documentation.
 
 ### Power Users on Windows
 
