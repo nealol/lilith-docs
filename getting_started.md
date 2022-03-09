@@ -9,11 +9,11 @@ Downloads can be found at https://dl.lilithmod.xyz. Once you've downloaded, you 
 
 ## Windows Users
 
-All you need to do is download the newest exe from the link above, put it in a new "lilith" folder, and double click to run it. Do not run Lilith before you put it in the folder. If you accidentally downloaded Lilith more than once and it automatically renamed it by putting something like a (1) at the end of the file name, please rename it when you drop it in your Lilith folder as it will not work if it is renamed from the default.
+All you need to do is download the newest exe from the link above, put it in a new "lilith" folder that you create, and double click to run it. Do not run Lilith before you put it in the folder. If you accidentally downloaded Lilith more than once and windows automatically renamed it by putting something like a (1) at the end of the file name, please rename it after you drop it in your Lilith folder because Lilith will not work if it is renamed from the default.
 
-Lilith will give you a link to open. To copy it, just select the link, and it'll be copied. Paste this into your browser and verify with Discord oauth. Once this is complete, Lilith should start up.
+Lilith will give you a link to open. Copy-paste this link into your browser and verify with Discord oauth. Once this is complete, Lilith should start up automatically.
 
-To use Lilith, you need to go into your Minecraft client (any client works) and connect to a server with the address direct connect to `localhost`. Yes, for the server address just type the word localhost. You will most likely get a socket closed error. If you do, please see the Troubleshooting section of the documentation.
+To use Lilith, you need to go into your Minecraft client (any client works) and connect to a server with the address `localhost`. Yes, for the server address just type the word localhost. You will most likely get a socket closed error. If you do, please see the Troubleshooting section of the documentation.
 
 ### Power Users on Windows
 
@@ -58,6 +58,6 @@ For additional information please see the mac-tutorial channel in the Lilith dis
 
 ## Linux Users
 
-Due to the fact you are currently on Linux, we will assume you are comfortable with the terminal.
+Due to the fact you are currently on Linux, we'll assume you are comfortable with the terminal.
 
 Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod +x` on the executable. If you have further questions, please contact a staff member.
