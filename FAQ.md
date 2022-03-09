@@ -24,3 +24,6 @@ While Lilith is still in its beta stages of development, it will continue to be 
 
 **How do I partner with Lilith?**
 If you have a decent following on a social media platform like Youtube, Twitch, etc, or own a discord server that aligns with Liltith (a forge modding server for example) please contact an adminstrator or developer to discuss further.
+
+**Where can I suggest new features?**
+If you have a suggestion regarding a feature, bug fix, or anything else you would want to add to Lilith, please use the /suggest command in our discord server. We are always open to user feedback.
