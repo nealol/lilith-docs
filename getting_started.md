@@ -21,6 +21,8 @@ If you are an advanced user and know what you are doing, we recommend using Wind
 
 ## MacOS Users
 
+If you are having issues following the instructions below or simply want something to easily reference, Purple#9590 made a step-by-step video guide for setting up Lilith on a mac here: https://www.youtube.com/watch?v=HaX9DD7qqIo&t=0s.
+
 After downloading the latest Lilith version for MacOS, put it in a folder by itself, and [copy the path to that folder](https://themacbeginner.com/copy-full-path-file-folder-finder-mac-osx/).
 
 Open a new Terminal window and type `cd "PATH"` and replace PATH with the path to the folder you copied in the previous step. Press enter to change your current directory. You now need to make Lilith executable by typing `chmod +x ./lilith-m` and then pressing tab followed by enter. You'll now be able to run Lilith by typing `./lilith-m`, pressing tab, and then pressing enter.
