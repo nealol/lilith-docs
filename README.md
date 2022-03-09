@@ -14,8 +14,8 @@ Lilith's WIP autododge feature is the most advanced on the market, with as much 
 Want to show overall bridge stats instead of more specific bridge modes? Possible. Want to keep names hidden in tablist and nametags? Also possible. Almost every part of Lilith is fully customizable and configurable, and more is added to the config all the time.
 
 **Support**
-Through the use of discord tickets, everyone is able to make use of one-on-one support with the Lilith developer.
+Through the use of discord tickets, everyone is able to make use of one-on-one support with the Lilith developer. However, before making a ticket, please check the guides and community support channels to see if your answer can be easily fixed with information from there.
 
 ## Licensing
 
-In Lilith's beta state, trial licenses can be obtained by applying on our discord: https://discord.lilithmod.xyz
+In Lilith's beta state, trial licenses can be obtained by applying on our discord: https://discord.lilithmod.xyz. Currently, Lilith will not work if you are not licensed.
