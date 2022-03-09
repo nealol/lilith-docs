@@ -18,4 +18,4 @@ Through the use of discord tickets, everyone is able to make use of one-on-one s
 
 ## Licensing
 
-In Lilith's beta state, trial licenses can be obtained by applying on our discord: https://discord.lilithmod.xyz
+In Lilith's beta state, trial licenses can be obtained by applying on our discord: https://discord.lilithmod.xyz. Currently, Lilith will not work if you are not licensed.

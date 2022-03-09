@@ -54,8 +54,10 @@ cd "PATH"
 - In terminal, run `chmod +x lilith.command`
 - Run Lilith by double clicking the command file in Finder.
 
+For additional information please see the mac-tutorial channel in the Lilith discord server. We understand many MacOS users may not be that tech savvy so we have provided as many resources as we can in there to help mac users get set up.
+
 ## Linux Users
 
-I'm not going to pretend you don't know how to use the terminal; you're on Linux.
+Due to the fact you are currently on Linux, we will assume you are comfortable with the terminal.
 
-Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod +x` on the executable.
+Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod +x` on the executable. If you have further questions, please contact a staff member.
