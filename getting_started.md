@@ -9,7 +9,7 @@ Downloads can be found at https://dl.lilithmod.xyz. Once you've downloaded, you 
 
 ## Windows Users
 
-All you need to do is download the newest exe from the link above, put it in a new "lilith" folder that you create, and double click to run it. Do not run Lilith before you put it in the folder. If you accidentally downloaded Lilith more than once and windows automatically renamed it by putting something like a (1) at the end of the file name, please rename it after you drop it in your Lilith folder because Lilith will not work if it is renamed from the default.
+All you need to do is download the newest exe from the link above, create a new folder on your desktop called "lilith", put it the exe new "lilith" folder, and double click to run it after it is inside. Do not run Lilith before you put it in the folder. If you accidentally downloaded Lilith more than once and windows automatically renamed it by putting something like a (1) at the end of the file name, please rename it after you drop it in your Lilith folder because Lilith will not work if it is renamed from the default.
 
 Lilith will give you a link to open. Copy-paste this link into your browser and verify with Discord oauth. Once this is complete, Lilith should start up automatically.
 
