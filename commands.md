@@ -14,6 +14,7 @@ This command is one of the most useful in Lilith. It will simply run the play co
 
 ## /nh
 `/nh <target>`
+
 This command allows you to see the namehistory of the targetted player; this includes all of their previous igns as well as the dates they were changed on.
 
 ## /lreload
