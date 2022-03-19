@@ -12,6 +12,10 @@ The statcheck command allows you to check the stats of any Minecraft player for 
 
 This command is one of the most useful in Lilith. It will simply run the play command for the game you are in/were just in and elimiate the need for you to memorize several long commands and have them copied to your clipboard.
 
+## /nh
+`/nh <target>`
+This command allows you to see the namehistory of the targetted player; this includes all of their previous igns as well as the dates they were changed on.
+
 ## /lreload
 `/lreload`
 
