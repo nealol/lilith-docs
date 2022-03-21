@@ -23,7 +23,7 @@ At this time, not all parts of Lilith are open source to preserve the integrity 
 While Lilith is still in its beta stages of development, it will continue to be free. However, after 1.0 releases we plan on adding premium, paid features on top of the free features you already know and love. Please note that there will still be a free version of Lilith.
 
 **How do I partner with Lilith?**
-If you have a decent following on a social media platform like Youtube, Twitch, etc, or own a discord server that aligns with Liltith (a forge modding server for example) please contact an adminstrator or developer to discuss further.
+If you have a decent following on a social media platform like Youtube, Twitch, etc, or own a discord server that aligns with Lilith (a forge modding server for example) please contact an adminstrator or developer to discuss further.
 
 **Where can I suggest new features?**
 If you have a suggestion regarding a feature, bug fix, or anything else you would want to add to Lilith, please use the /suggest command in our discord server. We are always open to user feedback.
