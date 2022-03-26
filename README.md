@@ -10,6 +10,9 @@ Lilith features the most customizable, comprehensive, and reliable queuestats ou
 **Autododge**
 Lilith's WIP autododge feature is the most advanced on the market, with as much customizabilty as you'd want and more.
 
+**Nick Detection**
+Lilith automatically detects when you queue a nick and will alert you in chat when you do. If a player is nicked with their own skin it will also state the real ign of the nicked player in chat next to the warning message.
+
 **Configuration**
 Want to show overall bridge stats instead of more specific bridge modes? Possible. Want to keep names hidden in tablist and nametags? Also possible. Almost every part of Lilith is fully customizable and configurable, and more is added to the config all the time.
 
