@@ -10,6 +10,9 @@ Lilith features the most customizable, comprehensive, and reliable queuestats ou
 **Autododge**
 Lilith's WIP autododge feature is the most advanced on the market, with as much customizabilty as you'd want and more.
 
+**Lunar Enable**
+Lilith can enable freelook and autotexthotkey on hypixel if you are using Lunar Client. Lilith also has an option to enable 1.7 hitreg, which results in significantly better hit registration. Additionally, it can enable Lunar staff mode, which grants access to staff modules built into lunar client like an X-ray module. On top of bypasses for Lunar, Lilith can enable all disabled mods on Badlion, hides your forge mod list from Hypixel and shows your client as vanilla.
+
 **Nick Detection**
 Lilith automatically detects when you queue a nick and will alert you in chat when you do. If a player is nicked with their own skin it will also state the real ign of the nicked player in chat next to the warning message.
 
