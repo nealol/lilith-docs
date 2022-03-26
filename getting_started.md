@@ -60,6 +60,4 @@ For additional information please see the mac-tutorial channel in the Lilith dis
 
 ## Linux Users
 
-Due to the fact you are currently on Linux, we'll assume you are comfortable with the terminal.
-
 Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod +x` on the executable. If you have further questions, please contact a staff member.
