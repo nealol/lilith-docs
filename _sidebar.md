@@ -3,3 +3,4 @@
 * [Troubleshooting](troubleshooting.md "Troubleshooting")
 * [FAQ](FAQ.md "FAQ")
 * [Commands](commands.md "Commands")
+* [Enhancements](enhancements.md "Enhancements")
