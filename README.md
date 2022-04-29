@@ -1,4 +1,4 @@
-# Lilith Documentation
+# Legacy Lilith Documentation
 
 Welcome to the new and improved Lilith documentation! Here you can find guides and references for usage of every part of Lilith. If you have further questions, please feel free to contact a staff member.
 
